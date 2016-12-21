@@ -1,2 +1,5 @@
-# CLIBobo
-Gets Latest News,Gist and more from your favourite Sites comfortably from your terminal
+![](http://i.imgur.com/CqnCtmg.png)
+[![PyPI version](https://badge.fury.io/py/clibobo.svg)](https://pypi.python.org/pypi/clibobo) ![](https://img.shields.io/badge/othree-codes-yellowgreen.svg)
+==========
+
+Get your Latest news, gist, jokes and more of your favourite sites Straight from your teminal
