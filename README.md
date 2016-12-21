@@ -13,6 +13,12 @@ What do you do when you're running `npm install` or `pip install` or `gem instal
  -  Requires python > 2.4
  -  Requires pip
  
+# Compatibility
+ - Linux
+ - OSX
+ 
+ Maybe Sometime in the future i'll add Windows support 
+
 ``` shell
 $ pip install clibobo
 
