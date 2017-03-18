@@ -2,6 +2,11 @@
 # _*_ coding:utf-8 _*_
 # Author: Obi Uchenna David <daviduchenna@outlook.com>.
 """CLI Bobo
+  ___  _   _                                 _           
+ / _ \| |_| |__  _ __ ___  ___  ___ ___   __| | ___  ___ 
+| | | | __| '_ \| '__/ _ \/ _ \/ __/ _ \ / _` |/ _ \/ __|
+| |_| | |_| | | | | |  __/  __/ (_| (_) | (_| |  __/\__ \
+ \___/ \__|_| |_|_|  \___|\___|\___\___/ \__,_|\___||___/
 Gets Latest News,Gist and more from your favourite Sites
 
 Required: Python 2.4 or later
